@@ -1,3 +1,6 @@
+Before Starting , I wanted to say that I have not done React Native before. 
+For this project only I have done React Native with the help of Youtube and Internet
+
 # Contacts Mobile App
 
 This is a sample Contacts mobile app built with React Native. The app allows you to view and search contacts from your phone's contacts list and displays their details in a popup.
